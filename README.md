@@ -1,4 +1,4 @@
-# rock-paper-scissors
+# Rock Paper Scissors!
 Web-based rock paper scissors game.
 First to 5 wins.
 
