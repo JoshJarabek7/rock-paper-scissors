@@ -1,0 +1,2 @@
+# rock-paper-scissors
+Create a rock paper scissors game (Odin Project Foundations)
