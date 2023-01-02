@@ -99,4 +99,3 @@ scissors.addEventListener('click', () => {
 );
 reset.addEventListener('click', resetGame);
 game();
-resetGame();
