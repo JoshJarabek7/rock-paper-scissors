@@ -1,0 +1,63 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+button {
+    font-size: 1.5em;
+    padding: 10px;
+    margin: 10px;
+}
+
+#scoreboard {
+    font-size: 1.5em;
+}
+
+#result {
+    font-size: 2em;
+    margin: 20px;
+}
+
+#reset {
+    font-size: 1.5em;
+    padding: 10px;
+    margin: 10px;
+}
+
+#rock {
+    background-color: #f00;
+}
+
+#paper {
+    background-color: #ff0;
+}
+
+#scissors {
+    background-color: #0f0;
+}
+
+#reset {
+    background-color: #00f;
+}
+
+#result {
+    color: #f00;
+}
+
+#playerScore {
+    color: #f00;
+}
+
+#computerScore {
+    color: #0f0;
+}
