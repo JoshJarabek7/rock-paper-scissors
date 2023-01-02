@@ -1,2 +1,5 @@
 # rock-paper-scissors
-Create a rock paper scissors game (Odin Project Foundations)
+Web-based rock paper scissors game.
+First to 5 wins.
+
+![Alt text](/images/screenshot.png?raw=true "Screenshot")
